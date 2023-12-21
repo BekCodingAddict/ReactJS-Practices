@@ -43,14 +43,13 @@
     - Stateful/Smart/Container
 
 ## Hooks
- - Hooks are  a new feature proposal that lets you use state and other React features without a class.
-<hr/>
-  - No breacking changes.
-  - Completely opt-on & 100% backwards-compatible.
-  - What ever we've learned so far in this series still hold good.
-  - Components types- Functional and Class components.
-  - Using state, life-cycle methods and 'this' binding.
-  - After understanding state,event binding and lifecycle hooks in class components.
+ - [x] Hooks are  a new feature proposal that lets you use state and other React features without a class.
+   - No breacking changes.
+   - Completely opt-on & 100% backwards-compatible.
+   - What ever we've learned so far in this series still hold good.
+   - Components types- Functional and Class components.
+   - Using state, life-cycle methods and 'this' binding.
+   - After understanding state,event binding and lifecycle hooks in class components.
 
 ## JSX
  - JavaScript XML (JSX) - Extension to the JavaScript language syntax.
