@@ -13,7 +13,7 @@
  - ### Component Types 
  - [x] Stateless Functional Component:
    - JavaScript Function:
-   ~~~
+   ~~~javascript
    function Welcome(props){
     return <h1>Hello, {props.name}</h1>;
    }
@@ -21,7 +21,7 @@
  - [x] Stateful Class Component
    - Class extending Component class 
    - Render method returning HTML
-   ~~~
+   ~~~javascript
    class Welcome extends React.Component{
     render(){
       return <h1>Hello, {this.props.name}</h1>;
