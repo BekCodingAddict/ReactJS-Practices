@@ -13,7 +13,7 @@
  - ### Component Types 
  - [x] Stateless Functional Component:
    - JavaScript Function:
-   ~~~javascript
+   ~~~
    function Welcome(props){
     return <h1>Hello, {props.name}</h1>;
    }
@@ -21,7 +21,7 @@
  - [x] Stateful Class Component
    - Class extending Component class 
    - Render method returning HTML
-   ~~~javascript
+   ~~~
    class Welcome extends React.Component{
     render(){
       return <h1>Hello, {this.props.name}</h1>;
@@ -64,3 +64,17 @@
     - [x] camelCase property naming convention.
       - onclick -> onClick
       - tabindex ->tabIndex
+
+## props vs state
+ - [x] props:
+   - props get passed to the component
+   - Function parameters
+   - props are immutable
+   - props - Function Components
+   - this.props- Class Components
+- [x] state
+  - state is managed within the component
+  - Variables declared in the function body
+  - state can be changed
+  - useState Hook - Functional Components 
+  - this.state - Class Components
