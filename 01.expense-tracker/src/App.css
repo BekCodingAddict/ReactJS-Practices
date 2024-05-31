@@ -150,3 +150,11 @@ input[type="number"] {
 .list li:hover .delete-btn {
   opacity: 1;
 }
+
+.globalProvider {
+  width: 30rem;
+  height: auto;
+  background: #fff;
+  padding: 2rem 2rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
