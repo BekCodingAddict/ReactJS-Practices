@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ReactJS-Practices/tree/master/01.expense-tracker/static/css/main.263993af.css",
-    "main.js": "/ReactJS-Practices/tree/master/01.expense-tracker/static/js/main.fdd25120.js",
-    "index.html": "/ReactJS-Practices/tree/master/01.expense-tracker/index.html",
-    "main.263993af.css.map": "/ReactJS-Practices/tree/master/01.expense-tracker/static/css/main.263993af.css.map",
-    "main.fdd25120.js.map": "/ReactJS-Practices/tree/master/01.expense-tracker/static/js/main.fdd25120.js.map"
+    "main.css": "/ReactJS-Practices/01.expense-tracker/static/css/main.263993af.css",
+    "main.js": "/ReactJS-Practices/01.expense-tracker/static/js/main.fdd25120.js",
+    "index.html": "/ReactJS-Practices/01.expense-tracker/index.html",
+    "main.263993af.css.map": "/ReactJS-Practices/01.expense-tracker/static/css/main.263993af.css.map",
+    "main.fdd25120.js.map": "/ReactJS-Practices/01.expense-tracker/static/js/main.fdd25120.js.map"
   },
   "entrypoints": [
     "static/css/main.263993af.css",
