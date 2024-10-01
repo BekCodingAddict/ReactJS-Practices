@@ -33,7 +33,7 @@ export default function accauntReducer(state = initialStateAccount, action) {
         balance: state.balance - state.loan,
         loan: 0,
       };
-    case "converting":
+    case "accaunt/converting":
       return {
         ...state,
         isLoading: true,
